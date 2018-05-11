@@ -35,5 +35,6 @@ Make sure the `Update on reload` option is selected in the Chrome developer tool
 </details>
 
 - - -
+Previous: [Hijacking Requests](./10-hijacking-requests.md)
 
 Next: [Hijacking Requests 2](./12-hijacking-requests-2.md)
