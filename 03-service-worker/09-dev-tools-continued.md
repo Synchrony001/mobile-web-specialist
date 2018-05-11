@@ -14,5 +14,6 @@ This way of bypassing the `Service Worker` and then refreshing is easier than na
 In the `Application` tab of Chrome developer tools, there is an option called `Update on reload`. This changes the `Service Worker` lifecycle to be developer friendly. In this mode, when you hit refresh, rather than refreshing the page it fetches a `Service Worker` and treats it as a new version whether it has changed or not and lets it become active immediately. With this option active, you do not have to hold `SHIFT` and refresh or navigate away from the page.
 
 - - -
+Previous: [Quiz: Service Worker Dev Tools 2](./08-quiz-dev-tools-2.md)
 
 Next: [Hijacking Requests](./10-hijacking-requests.md)
