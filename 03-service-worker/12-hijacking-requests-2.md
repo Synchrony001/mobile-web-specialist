@@ -59,5 +59,6 @@ We've just served up different content using the network!
 The `Fetch API` performs a normal browser `fetch`, so the results may come from the cache. That is a benefit in this case as we want the `.gif` to cache as usual.
 
 - - -
+Previous: [Quiz: Hijacking Requests 1](./11-quiz-hijacking-requests-1.md)
 
 Next: [Quiz: Hijacking Requests 2](./13-quiz-hijacking-requests-2.md)
