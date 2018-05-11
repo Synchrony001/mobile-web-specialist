@@ -51,4 +51,6 @@ Refresh the page and look at the `Network` tab in Chrome developer tools, take a
 
 - - -
 
+Previous: [Service Worker Dev Tools Continued](./09-dev-tools-continued.md)
+
 Next: [Quiz: Hijacking Requests 1](./11-quiz-hijacking-requests-1.md)
