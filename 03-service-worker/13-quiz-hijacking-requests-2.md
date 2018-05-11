@@ -29,5 +29,6 @@ Take a look at the code located in `public/js/sw/index.js`. As you can see, your
 </details>
 
 - - -
+Previous: [Hijacking Requests 2](./12-hijacking-requests-2.md)
 
 Next: [Hijacking Requests 3](./14-hijacking-requests-3.md)
